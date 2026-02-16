@@ -6,7 +6,7 @@ const Footer = () => (
     <div className="container mx-auto grid gap-8 px-4 py-12 md:grid-cols-4">
       <div>
         <Link to="/" className="mb-4 flex items-center gap-2 text-lg font-bold">
-          <Home className="h-5 w-5" /> EstateVue
+           EstateVue
         </Link>
         <p className="text-sm opacity-80">Finding your perfect property with trust, transparency, and expertise since 2015.</p>
       </div>
